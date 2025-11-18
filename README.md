@@ -1,4 +1,5 @@
 # API-CONTROLE-DE-ESTOQUE
+<<<<<<< Updated upstream
 # 📦 Sistema de Controle de Estoque – API NestJS
 
 Este projeto é uma API completa desenvolvida com NestJS, projetada para gerenciar produtos em estoque,
@@ -63,3 +64,7 @@ Relatórios retornam itens ordenados pelo nível de criticidade.
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e distribuir
 
+=======
+
+api de controle do estoque
+>>>>>>> Stashed changes
